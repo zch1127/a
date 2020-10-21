@@ -3,9 +3,13 @@
 - 是对方空间发
 - slfkjsdkfj
 
-···bash
+```bash
 ip a
 ping baidu.com
 
-···
+```
+
+---
+
+### ping 
 
